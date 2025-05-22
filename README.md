@@ -11,3 +11,7 @@ This was uploaded by a youtube channel:
 💡[GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
 -
 The code, schematic and sketch are also uploaded by: [GreatScott](https://youtube.com/@greatscottlab?si=hlbHd8CvzHosgsCy)
+
+Arduino Basics Info: 
+-
+https://docs.arduino.cc/language-reference/
