@@ -1,4 +1,4 @@
-# 🎲[Electronics Basics: All in One
+# 🎲Electronics Basics: All in One
 
 🍎Here you will get all the repo links, summaries, and also handnote.
 -
