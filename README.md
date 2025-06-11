@@ -15,3 +15,9 @@ The code, schematic and sketch are also uploaded by: [GreatScott](https://youtub
 Arduino Basics Info: 
 -
 https://docs.arduino.cc/language-reference/
+
+
+# 🍏TinkerCad Links:
+Class-2: Dim LED[1](https://www.tinkercad.com/things/kyTZ6RSiEWP-dimming-led),[2](https://www.tinkercad.com/things/lAr3E8FPzA4-dimming-led-using-ne555-timer-icincomplete) & [3](https://www.tinkercad.com/things/77rCoZOhr5L-dimming-led-strip-using-ne555-timer-ic-and-n-mosfetincomplete)
+[Class-3: ATtiny](https://www.tinkercad.com/things/gKVnP058Hqq-attiny-85)
+[Class-7: & segment Display](https://www.tinkercad.com/things/6DQgVFrZLWs-7-segment-display)
